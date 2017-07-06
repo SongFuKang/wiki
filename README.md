@@ -1,2 +1,2 @@
-# blog
-Followme 前端团队的官方博客
+# wiki
+Followme 前端团队的一些学习资料
